@@ -1,4 +1,4 @@
-- 👋 I'm Sz !
+-- 👋 I'm Sz !
 - 👀 Begin : Network Admin
 - 🌱 Learning : Anything
 - 📫 Discord : Sz#0004
